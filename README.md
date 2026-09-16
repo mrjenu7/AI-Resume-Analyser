@@ -30,9 +30,7 @@
       <a href="https://www.linkedin.com/in/jenish0715">AI/ML Developer</a>
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
-  </small>
+  
 </div><br/><br/>
 
 ## About the Project 🥱
@@ -298,4 +296,4 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/mrjenu7/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+

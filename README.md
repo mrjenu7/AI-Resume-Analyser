@@ -26,9 +26,8 @@
   </h4>
   <p>
     <small align="justify">
-      Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Jenish Patel</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      Built with 🤍 by Jenish Patel through 
+      <a href="https://www.linkedin.com/in/jenish0715">AI/ML Developer</a>
      </small>
   </p>
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
